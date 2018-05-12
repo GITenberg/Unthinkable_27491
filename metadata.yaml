@@ -1,0 +1,41 @@
+_repo: Unthinkable_27491
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Willis E.
+    - Terry, Bill
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phillips, Rog
+    aliases:
+    - Browning, Craig
+    - Graham, Roger Phillips
+    birthdate: 1909
+    deathdate: 1965
+    gutenberg_agent_id: '34753'
+    url: http://www.gutenberg.org/2009/agents/34753
+    wikipedia: http://en.wikipedia.org/wiki/Rog_Phillips
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Unthinkable
+url: http://www.gutenberg.org/ebooks/27491
